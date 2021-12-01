@@ -1,0 +1,25 @@
+{
+    "name": "Deliceos soupe",
+    "weight": 270,
+    "price": 30,
+    "description": "some description",
+    "ingridients": "some ingridients",
+    "image": ["image-1.jpg", "image-2.jpg"],
+    "video": ["video-link"],
+    "nutrition": ["fat-1", "proteine-32", "glucide-56"],
+    "vitamines": ["a", "b", "c"],
+    "expiry": 12
+}
+
+       name: name,
+       weight: weight, 
+       price: price,
+       description:description, 
+       ingridients: ingridients, 
+       image: image, 
+       video: video, 
+       nutrition: nutrition, 
+       vitamines: vitamines,
+       expiry: expiry 
+
+streetsoupe
